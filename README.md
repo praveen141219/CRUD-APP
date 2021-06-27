@@ -5,7 +5,7 @@
 
 <h3 align="center">A passionate frontend developer</h3>
 
-<p align="center"> <img src="https://github.com/praveen141219/CRUD-APP/blob/main/CRUD%20APP.gif /> </p>
+<p align="center"> <img src="https://github.com/praveen141219/CRUD-APP/blob/main/CRUD%20APP.gif"/> </p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praveen141219&label=Profile%20views&color=0e75b6&style=flat" alt="praveen141219" /> </p>
